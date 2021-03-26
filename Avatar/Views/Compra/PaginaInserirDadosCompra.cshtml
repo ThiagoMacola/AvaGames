@@ -1,0 +1,89 @@
+﻿@model Avatar.Models.Compra
+
+@{
+	ViewBag.Title = "PaginaInserirDadosCompra";
+}
+
+<h2>Seja Premium</h2>
+
+
+@using (Html.BeginForm())
+{
+	@Html.AntiForgeryToken()
+
+	<div class="form-horizontal">
+		<h4></h4>
+		<hr />
+		@Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+		<div class="vip">
+			<h2><b>Vantagens de ter o Passaporte VIP</b></h2>
+			O jogador que fizer assinatura e adquirir o Passaporte VIP do MegaJogos conquistará as seguintes vantagens:
+			<ul>
+				<li>Zero propaganda;</li>
+				<li> Créditos extras nas vitórias;</li>
+				<li>Salas exclusivas;</li>
+				<li>Destaque no Avatar;</li>
+				<li> Suporte prioritário.</li>
+			</ul>
+			Não deu para entender muito bem? A gente explica melhor. Com o Passaporte VIP, você ganha:
+
+			<h3><b> Personalidade<b></h3>
+			Com o Passaporte, você vai da massa comum direto para a ala nobre do reino. Chega de passar despercebido na multidão, agora seu avatar aparece em destaque,
+			rodeado por um glorioso círculo dourado e ostentando uma bela coroa.avatar-vip. Diga adeus aos tempos de plebe, você acabou de vencer a guerra dos tronos e tudo ao seu
+			redor agora é preto e dourado.
+			<h3><b>Exclusividade</b></h3>
+			Como toda majestade, você agora tem acesso à salas de jogo exclusivas, desenhadas especialmente para quem usa a coroa.
+			Tambem passa a contar com cores e fundos inéditos, que deixam tudo mais interessante e divertido.
+			<h3><b> Tratamento VIP</b></h3>
+
+			É só tocar a sineta que nós vamos correndo. Cliente VIP tem suporte prioritário para que nada interfira na sua experiência de jogo.
+			sineta - MegaJogosInterrupção por propaganda? Nem pensar. Você joga direto e foca na única coisa que interessa: a vitória!
+			<img class="imagem1" src="~/Fotos/coroa.jpg" />
+			<h3><b>Tudo Isso por apenas :  R$: 159,00</b></h3>
+			<br />
+
+			<div class="form-group">
+				@Html.LabelFor(model => model.Comprador.Nome, htmlAttributes: new { @class = "control-label col-md-2" })
+				<div class="col-md-10">
+					@Html.EditorFor(model => model.Comprador.Nome, new { htmlAttributes = new { @class = "form-control" } })
+					@Html.ValidationMessageFor(model => model.Comprador.Nome, "", new { @class = "text-danger" })
+				</div>
+			</div>
+			<div class="form-group">
+				@Html.LabelFor(model => model.Comprador.CPF, htmlAttributes: new { @class = "control-label col-md-2" })
+				<div class="col-md-10">
+					@Html.EditorFor(model => model.Comprador.CPF, new { htmlAttributes = new { @class = "form-control" } })
+					@Html.ValidationMessageFor(model => model.Comprador.CPF, "", new { @class = "text-danger" })
+				</div>
+			</div>
+
+			<div class="form-group">
+				@Html.LabelFor(model => model.FormaPagamento, "Forma Pagamento", htmlAttributes: new { @class = "control-label col-md-2" })
+				<div class="col-md-10">
+					Cartão @Html.RadioButtonFor(model => model.FormaPagamento, "Cartão")
+					Boleto @Html.RadioButtonFor(model => model.FormaPagamento, "Boleto")
+				</div>
+			</div>
+			<div class="form-group">
+				<div class="col-md-offset-2 col-md-10">
+					<input type="submit" value="Comprar" class="btn btn-default" />
+				</div>
+			</div>
+		</div>
+	</div>
+}
+
+
+
+<style>
+
+	.imagem1 {
+		height: 80px;
+		width: 80px;
+	}
+</style>
+
+@section Scripts {
+	@Scripts.Render("~/bundles/jqueryval")
+}

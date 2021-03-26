@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cpf</name>
+    </assembly>
+    <members>
+        <member name="T:CpfLibrary.Cpf">
+            <summary>
+            Digit check and formatting on Brazilian Individual Taxpayer Registry (CPF).
+            </summary>
+        </member>
+        <member name="M:CpfLibrary.Cpf.Check(System.String)">
+            <summary>
+            Performs a digit check on the given number.
+            </summary>
+            <param name="number">Number to check</param>
+            <returns>True if it's a valid CPF, false otherwise</returns>
+        </member>
+        <member name="M:CpfLibrary.Cpf.Format(System.String)">
+            <summary>
+            Formats the given string with CPF mask.
+            </summary>
+            <param name="s">string to format</param>
+            <returns>The formatted string if the formatting was sucessful, the original string if not</returns>
+        </member>
+    </members>
+</doc>

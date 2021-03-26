@@ -1,0 +1,367 @@
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\obj\Debug\Avatar.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\Avatar.dll.config
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\Avatar.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\Avatar.pdb
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\csc.exe
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\csc.exe.config
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\csc.rsp
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\csi.exe
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\csi.exe.config
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\csi.rsp
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\desktop.ini
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.AppContext.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Console.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.IO.Compression.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Net.Http.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.ValueTuple.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\vbc.exe
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\vbc.exe.config
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\vbc.rsp
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\VBCSCompiler.exe
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\Antlr3.Runtime.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\EntityFramework.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\EntityFramework.SqlServer.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\Newtonsoft.Json.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\System.Web.Helpers.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\System.Web.Mvc.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\System.Web.Optimization.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\System.Web.Razor.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\System.Web.WebPages.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\System.Web.WebPages.Razor.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\WebGrease.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\EntityFramework.xml
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\EntityFramework.SqlServer.xml
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\System.Web.Helpers.xml
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\System.Web.Mvc.xml
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\System.Web.Optimization.xml
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\System.Web.Razor.xml
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\System.Web.WebPages.xml
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\System.Web.WebPages.Razor.xml
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\Newtonsoft.Json.xml
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\Antlr3.Runtime.pdb
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\obj\Debug\Avatar.csproj.CopyComplete
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\obj\Debug\Avatar.dll
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\obj\Debug\Avatar.pdb
+C:\Users\ferna\Google Drive\Estagio Five\Repositorio\Avatar\Avatar\obj\Debug\Avatar.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\Avatar.dll.config
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\Avatar.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\Avatar.pdb
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\csc.exe
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\csc.exe.config
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\csc.rsp
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\csi.exe
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\csi.exe.config
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\csi.rsp
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\desktop.ini
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.AppContext.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Console.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.IO.Compression.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Net.Http.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.ValueTuple.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\vbc.exe
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\vbc.exe.config
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\vbc.rsp
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\VBCSCompiler.exe
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\Antlr3.Runtime.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\EntityFramework.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\EntityFramework.SqlServer.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\Newtonsoft.Json.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.Helpers.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.Mvc.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.Optimization.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.Razor.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.WebPages.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\WebGrease.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\EntityFramework.xml
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\EntityFramework.SqlServer.xml
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.Helpers.xml
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.Mvc.xml
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.Optimization.xml
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.Razor.xml
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.WebPages.xml
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\Newtonsoft.Json.xml
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\Antlr3.Runtime.pdb
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\obj\Debug\Avatar.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\obj\Debug\Avatar.csproj.CopyComplete
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\obj\Debug\Avatar.dll
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\obj\Debug\Avatar.pdb
+C:\Users\Thiago\Desktop\ProjetoAvatar\AvatarJogo\Avatar\obj\Debug\Avatar.csprojAssemblyReference.cache
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\Avatar.dll.config
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\Avatar.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\Avatar.pdb
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\csc.exe
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\csc.exe.config
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\csc.rsp
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\csi.exe
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\csi.exe.config
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\csi.rsp
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\desktop.ini
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.AppContext.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Console.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.IO.Compression.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Net.Http.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.ValueTuple.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\vbc.exe
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\vbc.exe.config
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\vbc.rsp
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\VBCSCompiler.exe
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\Antlr3.Runtime.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\EntityFramework.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\EntityFramework.SqlServer.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\Newtonsoft.Json.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.Helpers.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.Mvc.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.Optimization.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.Razor.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.WebPages.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.WebPages.Razor.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\WebGrease.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\EntityFramework.xml
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\EntityFramework.SqlServer.xml
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.Helpers.xml
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.Mvc.xml
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.Optimization.xml
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.Razor.xml
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.WebPages.xml
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\System.Web.WebPages.Razor.xml
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\Newtonsoft.Json.xml
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\Antlr3.Runtime.pdb
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\obj\Debug\Avatar.csprojAssemblyReference.cache
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\obj\Debug\Avatar.csproj.CoreCompileInputs.cache
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\obj\Debug\Avatar.csproj.CopyComplete
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\obj\Debug\Avatar.dll
+C:\Users\ferna\Desktop\1\ProjetoAvatar\AvatarJogo\Avatar\obj\Debug\Avatar.pdb
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\Avatar.dll.config
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\Avatar.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\Avatar.pdb
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\csc.exe
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\csc.exe.config
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\csc.rsp
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\csi.exe
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\csi.exe.config
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\csi.rsp
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\desktop.ini
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.AppContext.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Console.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.IO.Compression.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Net.Http.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.ValueTuple.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\vbc.exe
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\vbc.exe.config
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\vbc.rsp
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\VBCSCompiler.exe
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\Antlr3.Runtime.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\EntityFramework.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\EntityFramework.SqlServer.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\Newtonsoft.Json.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\System.Web.Helpers.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\System.Web.Mvc.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\System.Web.Optimization.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\System.Web.Razor.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\System.Web.WebPages.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\System.Web.WebPages.Razor.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\WebGrease.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\EntityFramework.xml
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\EntityFramework.SqlServer.xml
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\System.Web.Helpers.xml
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\System.Web.Mvc.xml
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\System.Web.Optimization.xml
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\System.Web.Razor.xml
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\System.Web.WebPages.xml
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\System.Web.WebPages.Razor.xml
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\Newtonsoft.Json.xml
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\Antlr3.Runtime.pdb
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\pt-br\System.Web.Optimization.resources.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\obj\Debug\Avatar.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\obj\Debug\Avatar.csproj.CopyComplete
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\obj\Debug\Avatar.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\obj\Debug\Avatar.pdb
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\obj\Debug\Avatar.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\Cpf.dll
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\Cpf.pdb
+C:\Users\Thiago\Desktop\PROJETO TOP\AvatarJogo\Avatar\bin\Cpf.xml

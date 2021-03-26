@@ -1,0 +1,72 @@
+﻿@model Avatar.Models.Personagem
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Detalhes do Personagem</h2>
+
+<div>
+    <h4>Personagem</h4>
+    <hr />
+	<dl class="dl-horizontal">
+		<div class="imagemitem">
+			<img src="@Url.Content(Model.Url)" />
+		</div>
+		<div class="subirletras">
+			<dt>
+				@Html.DisplayNameFor(model => model.Nome)
+			</dt>
+
+			<dd>
+				@Html.DisplayFor(model => model.Nome)
+			</dd>
+
+			<dt>
+				@Html.LabelFor(model => model.Classe.NomeClasse,"Tipo")
+			</dt>
+
+			<dd>
+				@Html.DisplayFor(model => model.Classe.NomeClasse)
+			</dd>
+
+			<dt>
+				@Html.LabelFor(model => model.Classe.RacaClasse, "Raça")
+			</dt>
+
+			<dd>
+				@Html.DisplayFor(model => model.Classe.RacaClasse)
+			</dd>
+
+			<dt>
+				@Html.DisplayNameFor(model => model.Sexo)
+			</dt>
+
+			<dd>
+				@Html.DisplayFor(model => model.Sexo)
+			</dd>
+		</div>
+	</dl>
+</div>
+
+
+
+<style>
+
+	.imagemitem {
+	
+       align-items : stretch;
+		width : 100px;
+		height : 50px;
+    
+    }
+	.subirletras {
+	
+	
+		align-items : stretch;
+	
+	}
+
+
+
+</style>

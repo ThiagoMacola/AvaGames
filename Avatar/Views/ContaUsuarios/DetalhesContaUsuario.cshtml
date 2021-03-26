@@ -1,0 +1,81 @@
+﻿@model Avatar.Models.ContaUsuario
+
+@{
+    ViewBag.Title = "DetalhesContaUsuario";
+}
+
+<h2>Dados do Usuario</h2>
+
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.LabelFor(model => model.NomeUsuario, "Nome")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomeUsuario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.LabelFor(model => model.StatusConta, "Status da Conta")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StatusConta)
+        </dd>
+
+        <dt>
+            @Html.LabelFor(model => model.DataCriacao, "Data de Criação")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DataCriacao)
+        </dd>
+
+    </dl>
+</div>
+<p>
+
+	
+
+	<div class="links">
+		@Html.ActionLink("Editar Conta ", "EdicaoContaUsuario", new { id = Model.Id }, null)
+	</div>
+	<div class="links">
+		@Html.ActionLink("Criar Personagem ", "Create", "Personagem")
+	</div>
+	<div class="links">
+		@Html.ActionLink("Dados do Personagem ", "Details", "Personagem", new { id = Model.Id }, null)
+	</div>
+	
+
+
+
+</p>
+
+
+
+<style>
+
+	.links {
+	    padding : 10px 10px;
+        display : inline-flex;
+
+
+
+    
+    
+    }
+
+
+</style>
